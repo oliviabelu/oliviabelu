@@ -1,3 +1,3 @@
 Hi ich bin Olivia!
 
-Berlinerin mit Ostseeluft im Herzen :ocean:
+Wahlberlinerin mit Ostseeluft im Herzen :ocean:
