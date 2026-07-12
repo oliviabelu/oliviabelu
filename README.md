@@ -7,5 +7,6 @@ Seit Anfang März nehme ich am Bootcamp **Web Entwicklung** von :tropical_fish: 
 - `HMTL`
 - `CSS`
 - `JavaScript`
+- `Next.js`
 
 lernen.
