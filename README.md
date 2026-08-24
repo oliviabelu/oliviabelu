@@ -11,3 +11,5 @@ Von März bis Juni habe ich am Bootcamp **Web Entwicklung** von :tropical_fish: 
 - `React`
 
 uvm. gelernt.
+
+Besonders stolz bin ich auf mein Abschlussprojekt SCRABBOLI. [Schau doch mal rein ](https://github.com/oliviabelu/scrabboli) oder [spiel direkt eine Runde](https://scrabboli.vercel.app/).
